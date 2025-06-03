@@ -404,10 +404,10 @@ img{
 }
 /*==================== ABOUT ====================*/
 .about__img{
-     width: 300px;
-    margin: 12px 0 0 -88px; /* 30px down, 20px left */
-    transform: none; /* Resets mobile transform */
-  }
+    width: 200px;
+    border-radius: .5rem;
+    justify-self: center; 
+    align-self: center;
 }
 
 .about__description{
@@ -1107,7 +1107,6 @@ img{
         order: 1;
         justify-self: center;
     }
-	
 
     .about__container,
     .skills__container,
