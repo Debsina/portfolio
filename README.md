@@ -14,4 +14,6 @@ https://debsina.github.io/portfolio/
 ![Screenshot (4)](https://github.com/user-attachments/assets/7a3ae691-4813-46d8-972b-1bf225e9c4d8)
 ![Screenshot (5)](https://github.com/user-attachments/assets/dc5d9551-6bc7-4b52-9c1d-a7e38eab24ed)
 ![Screenshot (6)](https://github.com/user-attachments/assets/976b0355-712a-4701-8495-58295bef7b3e)
+
+# Dark Mode
 ![Screenshot (7)](https://github.com/user-attachments/assets/e6cd7057-ed93-40a7-9e1c-6c99763cd9e3)
